@@ -1,0 +1,19 @@
+.header-container {
+  height: 60px;
+  width: 100%;
+  background-color: #d6e5cd;
+  display: flex;
+  align-items: center;
+}
+.header-title {
+  margin: 0 auto;
+  justify-content: flex-end;
+  color: #de2222;
+  font-size: 20px;
+  list-style: none;
+  display: flex;
+  width: 100%;
+}
+.header-title li {
+  padding: 10px;
+}
