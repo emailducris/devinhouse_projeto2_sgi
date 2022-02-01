@@ -1,6 +1,9 @@
-Template do projeto 2 
+Template do projeto 2 sgi
 
-- Clonar o projeto
-- Fazer um npm install ou yarn
-- Fazer um npm run server ou yarn start
-- Fazer npm start 
+- Clonar o projeto.
+- Fazer um npm install ou yarn.
+- Fazer um npm run server. (Utilizar um terminal apenas para essa execução).
+- Fazer npm start ou yarn start. (Em outro terminal).
+
+
+
